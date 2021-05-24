@@ -1,0 +1,4 @@
+.vscode/
+Data/
+GetUsers.py 
+# GetUsers.py is a previous implementation using reddits native api, the api now only allows the fetching of the last 1000 posts
